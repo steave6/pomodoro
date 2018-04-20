@@ -1,3 +1,3 @@
 # Self hosted pomodoro timer
 
-(url structure)[./doc/url-tree.md]
+[url structure](./doc/url-tree.md)
