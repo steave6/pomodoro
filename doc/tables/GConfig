@@ -1,0 +1,7 @@
+# Definition
+
+| Column     | DataType |  PK  | Nullable | Default |
+| ---------- | -------- | ---- | -------- | ------- |
+| Key1       | String   | Yes  | No       |         |
+| Key2       | String   | Yes  | No       |         |
+| Key2       | String   | No   | No       |         |

@@ -1,0 +1,8 @@
+# All tables
+
+- AnonymousUser
+- GConfig(where global control settings exists)
+- TimerHistory
+- SNSAuthenticator(May be merged with GConfig)
+- User
+

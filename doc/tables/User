@@ -1,0 +1,10 @@
+# Definition
+
+| Column     | DataType |  PK  | Nullable | Default |
+| ---------- | -------- | ---- | -------- | ------- |
+| UserId     | String   | Yes  | No       |         |
+| Username   | String   | No   | Yes      | ""      |
+| Password   | String   | Yes  | No       |         |
+| Email      | String   | Yes  | No       |         |
+| AuthMethod | Enum     | No   | No       | Basic   |
+| SyncId     | String   | No   | Yes      |         |
